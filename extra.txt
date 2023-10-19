@@ -1,0 +1,17 @@
+document.addEventListener("DOMContentLoaded", function () {
+
+    // const listings = document.querySelectorAll('.single_listing');
+
+    // listings.forEach((listing)=>{
+    //     listing.addEventListener('mousemove', (e) => {
+    //         const cursorFollower = listing.querySelector('.cursor_text');
+    //         const offset = -150;
+    //         cursorFollower.style.opacity = '1';
+    //         cursorFollower.style.left = e.clientX + offset + 'px';
+    //         cursorFollower.style.top = e.clientY + offset + 'px';
+    //     });
+    //     listing.addEventListener('mouseout', (e) => {
+    //         cursorFollower.style.opacity = '0';
+    //     });
+    // })
+});
